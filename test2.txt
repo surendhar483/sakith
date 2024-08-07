@@ -1,7 +1,2 @@
-Counting objects: 100% (4/4), done.
-Delta compression using up to 8 threads
-Compressing objects: 100% (2/2), done.
-Writing objects: 100% (3/3), 269 bytes | 269.00 KiB/s, done.
-Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
-To https://github.com/surendhar483/sakith.git
-   67d4b11..13eaa2a  main -> main [JUST TEST IT]
+
+please change it 
